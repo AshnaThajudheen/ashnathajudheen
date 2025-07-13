@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
