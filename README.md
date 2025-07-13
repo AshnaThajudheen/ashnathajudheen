@@ -54,6 +54,16 @@
 - 📦 More updates coming soon — excited to share as things grow!
 
 ---
+### 📚 Certifications & Courses
+
+- ✅ **NPTEL Certification** – Programming in Java *(AICTE/NPTEL – Govt. of India)*
+- ✅ **Completed Course** – Introduction to Programming in C *(Foundational course)*
+- ✅ **Certified** – Java Programming on **Udemy**
+- 📘 **Multiple courses completed** on **LinkedIn Learning** covering:
+  - Problem Solving for Programmers  
+  - GitHub & Git Essentials  
+  - Programming Logic & Fundamentals  
+  - More in Python, Java, and Productivity Skills
 
 ### 📫 Let's Connect
 
