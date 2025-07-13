@@ -33,21 +33,23 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ashnathajudheen&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashnathajudheen&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnathajudheen&layout=compact&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnathajudheen&layout=compact&theme=tokyonight" width="45%" />
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=ashnathajudheen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
+<img src="https://streak-stats.demolab.com?user=ashnathajudheen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="85%" />
 
 </div>
 
+---
 
 ### 🌟 Highlights & Achievements
 
