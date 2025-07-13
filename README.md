@@ -47,7 +47,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnathajudheen&layout=compact&theme=tokyonight" width="42%" />
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=ashnathajudheen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+<img src="https://streak-stats.demolab.com?user=ashnathajudheen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 
 </div>
 
