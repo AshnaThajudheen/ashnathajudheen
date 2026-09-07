@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashna Thajudheen</h1>
 
 <p align="center">
-🎓 3rd Year B.Tech CSE (Artificial Intelligence) Student  
+🎓 Final Year B.Tech CSE (Artificial Intelligence) Student  
 💡 Exploring the world of programming, AI, and real-world tech  
 </p>
 
